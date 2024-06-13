@@ -31,7 +31,7 @@ This project is a Streamlit web application that converts a 3D image of a floor 
 
 3. Run the application:
     ```sh
-    streamlit run app.py
+    streamlit run app4.py
     ```
 
 ## Usage
